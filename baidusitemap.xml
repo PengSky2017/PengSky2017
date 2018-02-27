@@ -3,6 +3,28 @@
 
 
     
+  <url>
+    <loc>http://yoursite.com/2018/02/27/NexT/</loc>
+    <lastmod>2018-02-27T09:14:58.530Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo | NexT主题个性化打造炫酷网站</title>
+        <pubTime>2018-02-27T09:08:25.873Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>NexT</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://yoursite.com/2018/02/25/hello-world/</loc>
